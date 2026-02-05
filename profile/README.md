@@ -1,5 +1,4 @@
-![LinkedEarth Logo](http://linked.earth/_images/LinkedEarth_small.png](https://github.com/LinkedEarth/Logos/blob/master/LinkedEarth/LinkedEarth_small.png?raw=true)
-
+![LinkedEarth Logo](https://github.com/LinkedEarth/Logos/blob/master/LinkedEarth/LinkedEarth_small.png?raw=true)
 LinkedEarth: A community for the paleosciences.
 
 LinkedEarth is a community of paleoscientists working to develop standards and software to enable paleoscience in the era of Big Data. This community produces data products and standards, software, cyberinfrastructure, and training opportunities.
