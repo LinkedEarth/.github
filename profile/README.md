@@ -1,4 +1,4 @@
-![LinkedEarth Logo]([http://linked.earth/_images/LinkedEarth_small.png](https://github.com/LinkedEarth/Logos/blob/master/LinkedEarth/LinkedEarth_small.png?raw=true))
+![LinkedEarth Logo](http://linked.earth/_images/LinkedEarth_small.png](https://github.com/LinkedEarth/Logos/blob/master/LinkedEarth/LinkedEarth_small.png?raw=true)
 
 LinkedEarth: A community for the paleosciences.
 
